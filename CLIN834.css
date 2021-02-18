@@ -1,0 +1,112 @@
+/* Chien-Li LIN, 955333969, clin834 */
+body{
+    background-color: #99ccff;
+    margin: 50px;
+}
+
+
+table{
+    text-align: center;
+    font-size: 30px;
+}
+
+td{
+    font-size: 35px;
+}
+
+h1{
+    font-size: 45px;
+} 
+
+img{
+
+    /* background-color: white; */
+    width: 40%
+
+    
+}
+
+hr{
+    border: 2px solid #99ccff;
+}
+
+p{
+    font-size: 30px;
+}
+
+#pages{
+    background-color: antiquewhite;
+    height: 100%;
+    text-align: center;
+    
+}
+
+#stage1{
+    text-align: left;
+    padding :7%
+}
+#stage2{
+    text-align: left;
+    padding :7%
+}
+#stage3{
+    text-align: left;
+    padding :7%
+}
+#postgraduate{
+    text-align: left;
+    padding :7%
+}
+#other{
+    text-align: left;
+    padding :7%
+}
+.underLine{
+    text-decoration-line: underline;
+}
+.staffleft{
+    text-align: left;
+    float: left;
+    width: 50%;
+    padding: 5%;
+}
+
+.staffDetails{
+    text-align: left;
+    float: left;
+    width: 30%;
+    padding: 5%;
+}
+
+.staffName{
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.staffjob{
+    font-size: x-large;
+}
+
+.stage{
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.paperTitle{
+    font-size: large;
+    font-weight: 900;
+}
+
+.paperDescription{
+    color: #8f8b8b;
+}
+
+.icon{
+    width: 30px;
+    height: 30px;
+}
+
+.numbers{
+    font-size:30px;
+    font-weight: bold;
+}
